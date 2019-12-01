@@ -1,0 +1,53 @@
+/*-------------------- style for navbar---------------- */
+
+.link:hover {
+    text-align: center;
+    border-radius: 10px;
+    background-color: rgb(235, 214, 214);
+    color: white;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+
+/* -------------style for side bar---------- */
+
+.bd-sidebar nav a {
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+
+
+/* --------------style for body------------- */
+
+body {
+    background: url(../image/test.png) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.container h1 {
+    font-family: "Black Ops One", cursive;
+    font-family: "Fredericka the Great", cursive;
+    font-weight: 500;
+    color: rgb(253, 253, 253);
+    /* text-shadow: 3px 8px grey; */
+}
+
+
+/* -------------style for label and input-------------- */
+
+.label {
+    background-color: white;
+    border-radius: 20px;
+    text-align: center;
+    font-weight: bolder;
+    color: rgb(0, 0, 0);
+}
+
+#inputClass {
+    border-radius: 15rem;
+}
